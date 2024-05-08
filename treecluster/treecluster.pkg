@@ -1,5 +1,23 @@
-d 'DEA': Data envelopment analysis
+d 'treecluster': Plotting clustered trees Use treecluster With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f colorcheck.ado
+f colorcheck.sthlp
+f colorpalette.ado
+f colorpalette.sthlp
+f colorpalette9.ado
+f colorpalette9.hlp
+f colrspace.sthlp
+f colrspace_library_generators.sthlp
+f colrspace_library_lsmaps.sthlp
+f colrspace_library_namedcolors.sthlp
+f colrspace_library_palettes.sthlp
+f colrspace_library_rgbmaps.sthlp
+f colrspace_source.sthlp
+f lcolrspace.mlib
+f linepalette.ado
+f linepalette.hlp
+f palettes.hlp
+f symbolpalette.ado
+f symbolpalette.hlp
+f treecluster.ado
+f treecluster.sthlp
