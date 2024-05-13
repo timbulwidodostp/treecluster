@@ -3,6 +3,8 @@ Plotting clustered trees Use treecluster With STATA 18
 
 Clustered tree plots Use treecluster With STATA 18
 
+https://www.youtube.com/watch?v=xa6sv56EVWw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
